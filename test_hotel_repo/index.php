@@ -9,6 +9,7 @@
 
 <body>
     <h1>navbar</h1>
+    <p style="color:white;">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos eveniet beatae excepturi corrupti expedita laborum unde temporibus minus obcaecati rerum, odio rem, doloremque similique debitis molestiae aperiam ratione illum consequuntur?</p>
     <h1>
         <ul>
             <li>about </li>
